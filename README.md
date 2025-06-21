@@ -1,5 +1,5 @@
 # 🍔 Odin Recipes
-O projeto **Odin Recipes** foi construído com *HTML*, *CSS* e *JavaScript*, desenvolvido como parte do currículo do  [The Odin Project](https://www.theodinproject.com/).
+O projeto **Odin Recipes** foi desenvolvido utilizando *HTML* e *JavaScript*, como parte do currículo do [The Odin Project](https://www.theodinproject.com/).
 ## 📝 Descrição
 Este site apresenta uma página inicial com links para diversas receitas. Cada receita possui sua própria página, contendo:
 - 🖼️ Imagem
